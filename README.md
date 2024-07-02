@@ -422,6 +422,50 @@ Then give everyone Full Control and click OK.
 
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/2384717f-acf1-4020-aa58-0a52241a5036)
 
+Click Apply and OK then OK again.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/72af035a-7ac1-45bf-8a8e-e48915f6fd52)
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/64df0c08-ac54-457a-985e-123acbba4925)
+
+Continue setting up osTicket in Edge by clicking Continue.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/8284d93e-ca9e-44e2-b32d-89e9a09fb0c4)
+
+Enter the following details:
+
+- Helpdesk Name:  Keith Helpdesk
+- Default Email: keith@helper.com
+- First Name: Keith
+- Last Name: Mitchel
+- Email: Kmmitch79@outlook.com
+- Username:   
+- Password: Passw0rd
+
+Next HeidiSQL needs to be installed to set up the SQL database.  Back in the Installations tab in Edge download HeidiSQL.
+
+<br/>
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/c11fb077-ea9a-46f9-9a51-90735596809d)
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/fbf76f8b-da70-4a19-a7e2-5f886b6d8e76)
+
+Work your way through the installation by clicking Next everytime until it's installed and click Finish.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/8cd59fe2-7dce-406c-84d0-40b06ce630fa)
+
+
+
 
 
 
