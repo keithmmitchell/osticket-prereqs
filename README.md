@@ -344,11 +344,83 @@ Then on the right go to Browse*:80 (http) to bring up the osTicket installer in 
 
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/613c9102-efb6-4044-80c0-990b0fdda67d)
 
+We can see that some of the extensions are not enabled so that needs to be done next.
+
+Back in IIS Manager double click PHP Manager.
+
 <br />
 
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/a56f16a7-114a-4f9b-8c02-e7b417fb3713)
 
+Click on enable or disable an extension then enable the following:
 
+- php_imap.dll
+- php_intl.dll
+- php_opcache.dll
 
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/95b1fa2f-2e84-49f6-84ca-018b900e679f)
+
+Back in Edge browser refresh to see those the extensions enabled.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/ccd4ce9d-37cb-4648-902e-8d35cf65374a)
+
+<br />
+
+Next is to rename the ost-config.php file from c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to c:\inetpub\wwwroot\osTicket\include\ost-config.php.
+
+<br /> 
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/6a66df46-8374-48ed-8f7c-48a78ed5714a)
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/b4c78f85-7c01-4b05-8930-a7852a0b0b3b)
+
+Permissions need to be assigned to the ost-config.php file so the osTicket installer can manipulate and interact with the file.  So right click the file and select Properties.  In the Security tab click Advanced.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/ad1dc287-0053-44a3-980f-701a854720be)
+
+In the Advanced window select Disable Inheritance so it stop inheriting from it's parent.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/ebc1c633-d086-41a0-92e6-5cbdf6d19d04)
+
+Then select Remove All Permission.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/99c93032-c9e8-4191-8213-25f48803571d)
+
+Once all the permissions are removed select Add.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/5c957d01-7be5-4e1d-af85-2698e4697f0c)
+
+Click Select A Principal
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/44ee9739-7827-4ee2-80b0-7552143d499f)
+
+Enter everyone then click Check Names then OK.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/2645c95c-2ead-4125-81d5-3edfb17610ed)
+
+Then give everyone Full Control and click OK.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/2384717f-acf1-4020-aa58-0a52241a5036)
 
 
 
