@@ -455,14 +455,109 @@ Next HeidiSQL needs to be installed to set up the SQL database.  Back in the Ins
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/c11fb077-ea9a-46f9-9a51-90735596809d)
 
 <br />
-
+::
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/fbf76f8b-da70-4a19-a7e2-5f886b6d8e76)
 
-Work your way through the installation by clicking Next everytime until it's installed and click Finish.
+Work your way through the installation by accepting the licensing agreement then clicking Next everytime then Install and then Finish to launch HeidiSQL.
 
 <br />
 
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/8cd59fe2-7dce-406c-84d0-40b06ce630fa)
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/1572b50a-d170-448a-b662-04750ed0838d)
+
+In HeidiSQL click New on the bottom left corner to create a connection to the database.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/8c8a8994-f64b-4843-af31-9fc909ee8ed4)
+
+Enter the password Password1 then click Open.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/844e2c0c-13c3-4d07-91c3-f7c48baf3184)
+
+We now have Heidi connected to the database.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/97f98920-d613-44d0-a476-ad86c24a7041)
+
+Back in Edge enter the following:
+
+- MySQL Username: root
+- MySQL Password: Password1
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/40fb0c07-50e9-4f82-99be-b7da1a0c8e64)
+
+A new database needs to be created in Heidi called osTicket.  
+
+In Heidi right click Unamed>Create New>Database.
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/70d29044-8b5c-4083-a8eb-c7f5cdfed710)
+
+Enter the name osTicket and click OK.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/4b6c04f5-e448-442d-8583-fd76e0ee5837)
+
+We can now see it created.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/2be583fb-3648-4fa9-a378-6ac8d81d0ff7)
+
+Back in Edge enter osTicket for MySQL Database then click Install Now.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/f4750cb8-0a22-49e1-aae8-b23424fc84a9)
+
+Now need to do some clean up.  The folder c:\inetpub\wwwroot\osTicket\setup needs to be deleted.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/bbf4b42c-0745-451f-ade9-2abc1a666608)
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/d63c0ee1-b4fa-4f35-b260-f14e0a783adb)
+
+Next the file c:\inetpub\wwwroot\osTicket\include\ost-config.php needs to be set back to to Read Only.  To do this right click the file and select Properties then the Security tab.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/4095efbf-4c81-41d1-b193-a75a697495e7)
+
+Click Advanced then select Everyone and then Edit.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/98b304be-7393-475b-ac05-e4e69ce41f89)
+
+Make sure the only permissions checked are Read and Read & Execute then click OK.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/d68ff004-ef61-4db4-b079-9185902e49b8)
+
+Then Apply and OK.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/ecb66213-3558-47ab-b182-625ff3993791)
+
+And then OK again.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/e9178f93-ba09-4d7c-9c08-7865aecb0bb1)
 
 
 
