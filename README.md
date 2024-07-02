@@ -571,7 +571,7 @@ Log in with the username user_admin and password Passw0rd.
 
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/14378c50-1706-4af0-8fbc-5086cdc8ecd8)
 
-
+That brings us to the end of Part 1 of the lab.  Please click https://github.com/keithmmitchell/post-install-config to go to Part 2.
 
 
 
