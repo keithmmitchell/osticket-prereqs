@@ -262,11 +262,92 @@ Then click Execute.
 
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/67d2b370-ebca-41e3-b0d4-9836d462d3f0)
 
-Next, search IIS, right click and run as Administrator.
+Next, search IIS, right click and run as Administrator and IIS Manager will load.
 
 <br />
 
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/5f6f1de8-76c0-4cf3-992b-0b2bddf9c836)
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/77c5a4fd-37a8-4d66-b6e3-4e6e00324d84)
+
+Double click PHP Manager
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/5b098a74-f14a-423a-89ff-76593a6115d7)
+
+We can see PHP is not enabled so click Register new PHP version.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/f7d4ff9c-b0f0-468e-9f44-4b974a03258b)
+
+Browse to C:\PHP\php-cgi.exe and click OK.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/ff8e86d2-89c1-4c17-8b56-ca92ce4fac82)
+
+Restart the server by clicking on the name then click Restart.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/d7f19276-9ae2-4348-92c5-603c20f8eed6)
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/02923a3b-3046-4c58-9316-2ef993517dbf)
+
+Download osTicket from the installation files.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/bb2f90e2-7067-4fd8-8676-7066a0293589)
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/9d13504e-f2d1-4097-925c-a280675f65cf)
+
+Now need to copy the "upload" folder to c:\inetpub\wwwroot.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/206787f2-901a-4688-9b47-4843f864831f)
+
+Now rename the upload folder to osTicket.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/55894a3f-3be5-471d-97bb-f09039d9336b)
+
+Restart IIS Manager again.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/919b7080-f221-49ab-b92b-5d0291728731)
+
+Next go to Sites>Default Web Site>osTicket
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/20abe822-b427-4982-8f12-3a93c5450810)
+
+Then on the right go to Browse*:80 (http) to bring up the osTicket installer in Edge.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/c123e112-75ed-42cc-8d31-662bf78df17d)
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/613c9102-efb6-4044-80c0-990b0fdda67d)
+
+<br />
+
+
+
 
 
 
