@@ -559,6 +559,21 @@ And then OK again.
 
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/e9178f93-ba09-4d7c-9c08-7865aecb0bb1)
 
+The URL for the login page is http://localhosts/osTicket/scp/login.php so go there and test that it's working.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/89151aae-d83e-4bf1-9156-fb312d9346ec)
+
+Log in with the username user_admin and password Passw0rd.
+
+<br />
+
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/14378c50-1706-4af0-8fbc-5086cdc8ecd8)
+
+
+
+
 
 
 
