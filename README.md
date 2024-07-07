@@ -36,7 +36,7 @@ In Azure create a resource group by clicking on Resource Groups in the top menu 
 
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/721edf3b-629e-49c4-9826-7c542eda46b2)
 
-For the Resource Group I named it RG-osTicket and selected te region (Europe) UK South then Review and Create.
+For the Resource Group, I named it RG-osTicket and selected the region (Europe) UK South then Review and Create.
 
 <br />
 
