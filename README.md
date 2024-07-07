@@ -577,7 +577,7 @@ Log in with the username user_admin and password Passw0rd.
 
 <br />
 
-That brings us to the end of Part 1 of the lab.  Please click https://github.com/keithmmitchell/post-install-config to go to Part 2.
+That brings us to the end of Part 1 of the lab.  Please go to https://github.com/keithmmitchell/post-install-config for Part 2.
 
 
 
