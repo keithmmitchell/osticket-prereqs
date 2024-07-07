@@ -387,7 +387,7 @@ Permissions need to be assigned to the ost-config.php file so the osTicket insta
 
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/ad1dc287-0053-44a3-980f-701a854720be)
 
-In the Advanced window select Disable Inheritance so it stop inheriting from it's parent.
+In the Advanced window select Disable Inheritance to stop it inheriting from it's parent.
 
 <br />
 
