@@ -456,10 +456,11 @@ Next HeidiSQL needs to be installed to set up the SQL database.  Back in the Ins
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/c11fb077-ea9a-46f9-9a51-90735596809d)
 
 <br />
-::
+
+
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/fbf76f8b-da70-4a19-a7e2-5f886b6d8e76)
 
-Work your way through the installation by accepting the licensing agreement then clicking Next everytime then Install and then Finish to launch HeidiSQL.
+Work your way through the installation by accepting the licensing agreement then keep clicking Next then Install and then Finish to launch HeidiSQL.
 
 <br />
 
@@ -520,7 +521,9 @@ Back in Edge enter osTicket for MySQL Database then click Install Now.
 
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/f4750cb8-0a22-49e1-aae8-b23424fc84a9)
 
-Now need to do some clean up.  The folder c:\inetpub\wwwroot\osTicket\setup needs to be deleted.
+Now the files need to be cleaned up.  
+
+First, the folder c:\inetpub\wwwroot\osTicket\setup needs to be deleted.
 
 <br />
 
