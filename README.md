@@ -30,7 +30,8 @@ In Azure create a resource group by clicking on Resource Groups in the top menu 
 
 <br />
 
-![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/3e5c2e53-db25-4ab6-9b8a-85724d311280)
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/4e12b849-570d-4d3d-a53e-2719cc12b134)
+
 
 <br />
 
