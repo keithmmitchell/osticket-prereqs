@@ -105,7 +105,7 @@ Enter the username labuser and the password Passw0rd1234 and click OK to connect
 
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/6638c862-ad28-4f1a-984c-774cceb9add8)
 
-Click Yes when the message appears about the identity not being identified.
+Click Yes when the message appears about the identity not being verified.
 
 <br />
 
