@@ -99,7 +99,7 @@ On the physical PC search Remote Desktop for Remote Desktop Connection and paste
 
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/ef4b3cb4-e0f1-4d92-959d-a79c872dfc13)
 
-Enter the username labuser and the password Passw0rd and click OK to connect.
+Enter the username labuser and the password Passw0rd1234 and click OK to connect.
 
 <br />
 
