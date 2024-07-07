@@ -444,7 +444,7 @@ Enter the following details:
 - Helpdesk Name:  Keith Helpdesk
 - Default Email: keith@helper.com
 - First Name: Keith
-- Last Name: Mitchel
+- Last Name: Mitchell
 - Email: Kmmitch79@outlook.com
 - Username:   
 - Password: Passw0rd
