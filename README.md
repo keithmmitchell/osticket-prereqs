@@ -509,7 +509,7 @@ Enter the name osTicket and click OK.
 
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/4b6c04f5-e448-442d-8583-fd76e0ee5837)
 
-We can now see it created.
+We can now see the database is created.
 
 <br />
 
@@ -533,7 +533,7 @@ First, the folder c:\inetpub\wwwroot\osTicket\setup needs to be deleted.
 
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/d63c0ee1-b4fa-4f35-b260-f14e0a783adb)
 
-Next the file c:\inetpub\wwwroot\osTicket\include\ost-config.php needs to be set back to to Read Only.  To do this right click the file and select Properties then the Security tab.
+Next the file c:\inetpub\wwwroot\osTicket\include\ost-config.php needs to be set back to to Read Only.  Right click the file and select Properties then the Security tab.
 
 <br />
 
