@@ -47,6 +47,10 @@ Search Virtual Machines in the search bar and create a new Virtual Machine.
 
 <br />
 
+![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/f3cc5794-6ae0-4a33-b6c1-a486d4cbe5e5)
+
+<br />
+
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/ba9fe64a-c8ff-41d7-abfe-7f53d8684f31)
 
 I used the following configuration:
