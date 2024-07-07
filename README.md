@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create a virtual machine
 - Enable IIS
-- Item 3
+- Download and install the installation files
 - Item 4
 - Item 5
 
