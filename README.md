@@ -393,7 +393,7 @@ In the Advanced window select Disable Inheritance to stop it inheriting from it'
 
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/ebc1c633-d086-41a0-92e6-5cbdf6d19d04)
 
-Then select Remove All Permission.
+Then select Remove All Permissions.
 
 <br />
 
