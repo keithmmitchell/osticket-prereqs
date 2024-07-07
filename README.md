@@ -145,7 +145,7 @@ Open Edge and type the local host 127.0.0.1 and if the Internet Information Serv
 
 ![image](https://github.com/keithmmitchell/osticket-prereqs/assets/174253055/2a03bfbd-465c-40e0-82f7-7ab2e39f7e8c)
 
-THe next step is to install PHPManager for IIS from https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6.
+The next step is to install PHPManager for IIS from https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6.
 
 <br />
 
